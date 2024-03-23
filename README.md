@@ -1,2 +1,2 @@
 # vowels-counter
-This repository count vowels
+This repository counts vowels
